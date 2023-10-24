@@ -1,5 +1,5 @@
 Esse projeto foi feito atráves da biblioteca React Native
-# Meu Primeiro Projeto - CALCULADORA 
+# Meu Primeiro Projeto em RN - CALCULADORA 
 > trabalho feito para fins de aprendizado 
 
 ## Primeiro Passo: Faça download do Emulador Android 
